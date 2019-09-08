@@ -1,0 +1,8 @@
+Understanding AWS Permissions (IAM)
+Feel free to skip this article if you're already aware about how AWS Security Model and IAM (Identity and Access Management) works.
+
+I strongly recommend watching this video to get a brief overview: https://youtu.be/9CKsX6MOPDQ
+
+Besides that, have a look at the following article to get an introduction: http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+
+By default, AWS doesn't give any permissions to any of your services. That means, that no service may interact with other services.

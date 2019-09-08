@@ -1,0 +1,10 @@
+{
+	"age" : 456,
+	"height" : 43,
+	"income" : 463634
+}
+
+
+"age": {"type": "integer"},
+"height": {"type": "integer"},
+"income": {"type": "integer"}
